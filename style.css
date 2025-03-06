@@ -1,0 +1,41 @@
+*{
+  padding: 0;
+  margin: 0;
+}
+
+/* styling for welcome section */
+
+.welcome-cont{
+  background-color: black;
+  color: white;
+  text-align: center;
+  height: 700px;
+  width: 100%;
+}
+
+h1{
+   font-size: 80px;
+   line-height: 80px;
+   padding-top: 230px;
+}
+
+.welcome-description{
+  margin-top: 30px;
+  font-weight: bold;
+  font-size: 25px;
+}
+
+/* designing for pages section */
+
+.pages{
+  height: 300px;
+  width: 100%;
+  background-color: lightblue;
+  display: flex;
+  justify-content: space-around;
+}
+
+a{
+  text-decoration: none;
+}
+
